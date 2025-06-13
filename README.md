@@ -32,10 +32,8 @@ Antes de começar, você vai precisar ter instalado:
 
 ## ⚙️ Como executar o projeto
 
-1. **Clone o repositório:**
-
 ```bash
-Mova a pasta do projeto para o diretório do seu servidor local:
+1. Clone o repositório, a pasta do projeto para o diretório do seu servidor local.
 
 No XAMPP, por exemplo: C:\xampp\htdocs\barber
 
