@@ -11,6 +11,7 @@ Este é um projeto web simples desenvolvido em PHP para controle de agendamentos
 
 ## 📁 Estrutura de Pastas
 
+``` shell
 barber/
 ├── api/ # Arquivos responsáveis por requisições e respostas
 ├── assets/ # Imagens, CSS e JS
@@ -20,7 +21,7 @@ barber/
 ├── agendamentos.php # Lista de agendamentos
 ├── index.php # Página inicial
 └── README.md
-
+```
 
 ## ✅ Pré-requisitos
 
