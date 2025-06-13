@@ -35,15 +35,15 @@ Antes de começar, você vai precisar ter instalado:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/barber.git
-
-2.Mova a pasta do projeto para o diretório do seu servidor local:
+Mova a pasta do projeto para o diretório do seu servidor local:
 
 No XAMPP, por exemplo: C:\xampp\htdocs\barber
 
-3.Inicie os serviços Apache e MySQL pelo XAMPP.
+Dentro da pasta clone o projeto com o comando git clone git@github.com:v1torLopes/newbarber.git
 
-4.Importe o banco de dados:
+2.Inicie os serviços Apache e MySQL pelo XAMPP.
+
+3.Importe o banco de dados:
 
 Acesse http://localhost/phpmyadmin
 
